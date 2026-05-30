@@ -72,7 +72,7 @@ What if you could build compliance into your agent design, not bolt it on after?
 
 **AI Agent Compliance Lifecycle: From Design to Audit**
 
-![Flowchart showing the AI agent compliance lifecycle from design through development, deployment, operational, and audit preparation phases.](https://mermaid.ink/svg/Zmxvd2NoYXJ0IExSCiAgZGVzaWduX3BoYXNlWyJEZXNpZ24gUGhhc2UiXQogIGRldmVsb3BtZW50X3BoYXNlWyJEZXZlbG9wbWVudCBQaGFzZSJdCiAgZGVwbG95bWVudF9waGFzZVsiRGVwbG95bWVudCBQaGFzZSJdCiAgb3BlcmF0aW9uYWxfcGhhc2VbIk9wZXJhdGlvbmFsIFBoYXNlIl0KICBhdWRpdF9wcmVwYXJhdGlvblsiQXVkaXQgUHJlcGFyYXRpb24iXQogIGRlc2lnbl9waGFzZSAtLT58cHJvY2VlZCB0b3wgZGV2ZWxvcG1lbnRfcGhhc2UKICBkZXZlbG9wbWVudF9waGFzZSAtLT58cHJvY2VlZCB0b3wgZGVwbG95bWVudF9waGFzZQogIGRlcGxveW1lbnRfcGhhc2UgLS0-fHByb2NlZWQgdG98IG9wZXJhdGlvbmFsX3BoYXNlCiAgb3BlcmF0aW9uYWxfcGhhc2UgLS0-fHByZXBhcmUgZm9yfCBhdWRpdF9wcmVwYXJhdGlvbg==?width=800)
+![Flowchart showing the AI agent compliance lifecycle from design through development, deployment, operational, and audit preparation phases.](https://mermaid.ink/svg/Zmxvd2NoYXJ0IFRECiAgZGVzaWduX3BoYXNlWyJEZXNpZ24gUGhhc2UiXQogIGRldmVsb3BtZW50X3BoYXNlWyJEZXZlbG9wbWVudCBQaGFzZSJdCiAgZGVwbG95bWVudF9waGFzZVsiRGVwbG95bWVudCBQaGFzZSJdCiAgb3BlcmF0aW9uYWxfcGhhc2VbIk9wZXJhdGlvbmFsIFBoYXNlIl0KICBhdWRpdF9wcmVwYXJhdGlvblsiQXVkaXQgUHJlcGFyYXRpb24iXQogIGRlc2lnbl9waGFzZSAtLT58cHJvY2VlZCB0b3wgZGV2ZWxvcG1lbnRfcGhhc2UKICBkZXZlbG9wbWVudF9waGFzZSAtLT58cHJvY2VlZCB0b3wgZGVwbG95bWVudF9waGFzZQogIGRlcGxveW1lbnRfcGhhc2UgLS0-fHByb2NlZWQgdG98IG9wZXJhdGlvbmFsX3BoYXNlCiAgb3BlcmF0aW9uYWxfcGhhc2UgLS0-fHByZXBhcmUgZm9yfCBhdWRpdF9wcmVwYXJhdGlvbg?width=800)
 
 
 
@@ -123,19 +123,3 @@ The unified blueprint isn’t theoretical. It’s a direct response to the reali
 The business case is clear: faster audits, reduced overhead, and stronger risk management. A team that adopts this approach can cut audit preparation time by half and close the gaps that lead to findings. Next steps: conduct a gap analysis of your current controls against the overlapping areas, build the lifecycle checklist into your development process, and start automating evidence collection.
 
 Omnithium’s platform helps enterprises implement this unified compliance model by providing observability, policy enforcement, and automated evidence mapping for AI agents. But the blueprint itself is independent; you can start applying it today with your existing tools. The important thing is to stop treating these frameworks as separate mountains to climb and start seeing them as different faces of the same governance challenge.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/ai-agent-compliance-soc2-iso-eu-ai-act).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
